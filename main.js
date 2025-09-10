@@ -16,6 +16,7 @@ btn.addEventListener("click", () => {
 
 console.log(1);
 console.log(2);
+console.log(3);
 
 // let btn = document.querySelector(".mobile-btn");
 
