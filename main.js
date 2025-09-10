@@ -13,3 +13,5 @@ const toggleBurger = (menuClass, showMenuClass) => {
 btn.addEventListener("click", () => {
   toggleBurger("header-nav", "header-nav-show");
 });
+
+console.log(1);
